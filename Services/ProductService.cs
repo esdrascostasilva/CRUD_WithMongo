@@ -1,4 +1,5 @@
-﻿using Microsoft.Extensions.Options;
+﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Options;
 using MongoDB.Driver;
 
 namespace CrudWithMongodb;
@@ -14,5 +15,6 @@ public class ProductService
 
         _productCollection = mongoDatabase.GetCollection<Product>(options.Value.ProductCollectionName);
     }
+
 
 }
