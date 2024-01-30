@@ -10,5 +10,11 @@ Segui a documentação da Microsoft para criação de WebAPi utilizando persiste
 
 <img width="788" alt="image" src="https://github.com/esdrascostasilva/CRUD_WithMongo/assets/37388849/75740012-9cd3-4abe-906f-17432030bc71">
 
+<img width="474" alt="image" src="https://github.com/esdrascostasilva/CRUD_WithMongo/assets/37388849/6e2c7589-7546-4140-a0cd-0d6102e31574">
+
+
+<img width="750" alt="image" src="https://github.com/esdrascostasilva/CRUD_WithMongo/assets/37388849/b2f0d2ed-f84b-495c-93b8-f59012e6f184">
+
+
 
 Bons estudos!
