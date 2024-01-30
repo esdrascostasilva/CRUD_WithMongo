@@ -7,6 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Taking the config (like connection string) by appSettings
 builder.Services.Configure<ProductDatabaseSettings>
     (builder.Configuration.GetSection("DevelopDatabaseConfig"));
+builder.Services.AddSingleton<ProductService>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

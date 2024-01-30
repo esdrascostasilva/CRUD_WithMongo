@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "b9yefnOM+0vNAm2tGXc1wvLGDN5WeA7CiY69YSLZqs4=",
+  "Source": "CrudWithMongodb",
+  "BasePath": "_content/CrudWithMongodb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

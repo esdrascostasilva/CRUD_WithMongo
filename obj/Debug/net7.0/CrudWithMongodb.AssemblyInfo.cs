@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrudWithMongodb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+071c0b43b91a97dc444e413cc800c7bd765d1e31")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrudWithMongodb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrudWithMongodb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
